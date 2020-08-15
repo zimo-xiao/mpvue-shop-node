@@ -13,3 +13,4 @@ yarn-error.log*
 *.sln
 package-lock.json
 study.code-workspace
+config.js
